@@ -1,2 +1,3 @@
 [packages]
 myfitnesspal = "*"
+pandas = "*"
